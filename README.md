@@ -1,9 +1,13 @@
-- 👋 Hi, 欢迎各位到访我的 GitHub！
-- 🧑‍💻 Name: Zhenya ![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
-- 📍 Location: Fujian, China
-- 👀 I’m interested in Evolutionary computation, Machine learning！
-- 🌱 I’m currently learning Evolutionary Algorithms & Applications！
-- 📫 Email: dzhenya@163.com
+👋 Hi, 欢迎各位到访我的 GitHub！
+🧑‍💻 **Name**: Zhenya Diao  
+📍 **Location**: Fujian, China  
+👀 **Interests**: Evolutionary Computation, Machine Learning  
+🌱 **Currently Learning**: Evolutionary Algorithms & Their Applications  
+📫 **Email**: dzhenya@163.com
+
+---
+
+🔬 在这里，我分享我的研究、项目和代码，涉及智能计算、进化计算、机器学习等领域。欢迎随时交流合作！
 
 
 <!---
