@@ -1,9 +1,9 @@
-👋 Hi, 欢迎各位到访我的 GitHub！
-🧑‍💻 **Name**: Zhenya Diao  
-📍 **Location**: Fujian, China  
-👀 **Interests**: Evolutionary Computation, Machine Learning  
-🌱 **Currently Learning**: Evolutionary Algorithms & Their Applications  
-📫 **Email**: dzhenya@163.com
+- 👋 Hi, 欢迎各位到访我的 GitHub！
+- 🧑‍💻 **Name**: Zhenya Diao  
+- 📍 **Location**: Fujian, China  
+- 👀 **Interests**: Evolutionary Computation, Machine Learning  
+- 🌱 **Currently Learning**: Evolutionary Algorithms & Their Applications  
+- 📫 **Email**: dzhenya@163.com
 
 ---
 
