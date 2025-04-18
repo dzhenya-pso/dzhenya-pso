@@ -1,4 +1,7 @@
-<img align="right" src="https://count.getloli.com/get/@:dzhenya-pso?theme=rule34">
+<a href="https://count.getloli.com/get/@:dzhenya-pso" title="访问次数统计" style="text-decoration: none;">
+  📊 访问统计
+</a>
+
 - 👋 Hi, 欢迎各位到访我的 GitHub！
 - 🧑‍💻 Name: Zhenya ![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
 - 📍 Location: Fujian, China
